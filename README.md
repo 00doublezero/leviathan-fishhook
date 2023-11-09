@@ -1,2 +1,1 @@
 # leviathan-fishhook
-init description
